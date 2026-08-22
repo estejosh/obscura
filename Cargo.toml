@@ -1,0 +1,7 @@
+[package]
+name = "obscura"
+version = "0.0.1"
+edition = "2024"
+description = "Safe secure transport protocol for communications, platform agnostic (pre-alpha)"
+
+[dependencies]
