@@ -67,8 +67,19 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-No license has been chosen yet. Until one is added, all rights are reserved by
-the author and the code may not be redistributed.
+obscura is licensed under the **Business Source License 1.1** (`BUSL-1.1`) —
+source-available and fully auditable, but *not* open source (yet). In brief:
+
+- **Free**: read/audit the source, internal use, evaluation, non-production
+  use; redistribution of unmodified copies under the same license.
+- **Seat license required**: production use and commercial use — contact
+  estejosh for a written seat license.
+- **Not allowed**: distributing derivative works; provisioning a competing
+  protocol service from this code.
+- **Change Date 2030-08-23**: each version converts to Apache-2.0.
+
+Full terms: [LICENSE.md](LICENSE.md) · plain-language summary:
+[LICENSE-PARAMETERS.md](LICENSE-PARAMETERS.md).
 
 ## Roadmap
 
